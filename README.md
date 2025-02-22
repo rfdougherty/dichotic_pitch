@@ -2,7 +2,7 @@
 
 Matlab/Octave code to generate dichotic pitch stimuli. 
 
-To quickly hear some demos, grab your headphones and checkout the demos directory. See below for a brief introduction to the phenomenon.
+To quickly hear some demos, grab your headphones and checkout the [demos](./demos) directory. See below for a brief introduction to the phenomenon.
 
 ## Background
 
@@ -10,7 +10,7 @@ Our two eyes get slightly different views of the world and these two different v
 
 Like our eyes, our two ears receive slightly different versions of the soundscape and our brain can exploit this interaural difference to localize and segregate sound sources. Sounds originating on the left reach the left ear first and are louder in the left ear than the right. In addition, as the sound source continues to produce sound waves, each crest of these waves will arrive at the left ear before the right ear. If these sound waves include frequencies whose wavelength is greater than the distance between the ears (i.e. below about 1400 Hz), then the brain can utilize the interaural time difference between crests.
 
-This ongoing interaural time difference (ITD) can be exploited to create dichotic pitch. This is possible because the brain uses the ongoing ITD to segregate sounds produced by different sources as well as to help localize sounds in 3-dimensional space. (See my page on spatial hearing for more about interaural cues to sound source localization.)
+This ongoing interaural time difference (ITD) can be exploited to create dichotic pitch. This is possible because the brain uses the ongoing ITD to segregate sounds produced by different sources as well as to help localize sounds in 3-dimensional space.
 
 Dichotic pitch is a perception of pitch that is extracted by the brain from two noise sequences, neither of which alone contain any cues to pitch. This perceived pitch may be localized to a different spatial location than the background noise, which is heard along with the pitch.
 
